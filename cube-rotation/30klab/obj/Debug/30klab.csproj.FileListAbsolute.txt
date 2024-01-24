@@ -1,0 +1,28 @@
+C:\Users\Fürkan\source\repos\30klab\30klab\bin\Debug\30klab.exe
+C:\Users\Fürkan\source\repos\30klab\30klab\bin\Debug\30klab.pdb
+C:\Users\Fürkan\source\repos\30klab\30klab\bin\Debug\Tao.OpenGl.dll
+C:\Users\Fürkan\source\repos\30klab\30klab\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Fürkan\source\repos\30klab\30klab\bin\Debug\Tao.OpenGl.xml
+C:\Users\Fürkan\source\repos\30klab\30klab\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\30klab.csproj.AssemblyReference.cache
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\_30klab.Form1.resources
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\_30klab.Properties.Resources.resources
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\30klab.csproj.GenerateResource.cache
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\30klab.csproj.CoreCompileInputs.cache
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\30klab.csproj.CopyComplete
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\30klab.exe
+C:\Users\Fürkan\source\repos\30klab\30klab\obj\Debug\30klab.pdb
+D:\Dersler\comp graphs\döndürme lab\30klab\bin\Debug\30klab.exe
+D:\Dersler\comp graphs\döndürme lab\30klab\bin\Debug\30klab.pdb
+D:\Dersler\comp graphs\döndürme lab\30klab\bin\Debug\Tao.OpenGl.dll
+D:\Dersler\comp graphs\döndürme lab\30klab\bin\Debug\Tao.Platform.Windows.dll
+D:\Dersler\comp graphs\döndürme lab\30klab\bin\Debug\Tao.OpenGl.xml
+D:\Dersler\comp graphs\döndürme lab\30klab\bin\Debug\Tao.Platform.Windows.xml
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\30klab.csproj.AssemblyReference.cache
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\_30klab.Form1.resources
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\_30klab.Properties.Resources.resources
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\30klab.csproj.GenerateResource.cache
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\30klab.csproj.CoreCompileInputs.cache
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\30klab.csproj.CopyComplete
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\30klab.exe
+D:\Dersler\comp graphs\döndürme lab\30klab\obj\Debug\30klab.pdb
